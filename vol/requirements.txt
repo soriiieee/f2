@@ -1,0 +1,15 @@
+matplotlib==3.3.4  
+pandas
+# seaborn
+# requests
+# BeautifulSoup
+# cartopy pre install library
+Proj
+GEOS
+Cython
+Shapely
+pyshp
+six
+cartopy
+# cartopy pre install library
+# https://stackoverflow.com/questions/53697814/using-pip-install-to-install-cartopy-but-missing-proj-version-at-least-4-9-0
